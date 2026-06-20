@@ -3,6 +3,7 @@
 
 <br/>
 <br/>
+
 # 👨‍💻 Author
 
 ## Ajay Gangwar
@@ -11,13 +12,13 @@
 
 Passionate about building scalable applications with C#, .NET, Angular, Azure, and SQL Server. I enjoy simplifying complex software engineering concepts through practical examples, hands-on projects, and interview-focused content to help developers grow in their careers.
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 * **Website:** https://www.ajaygangwar.com
 * **GitHub:** https://github.com/codewithajayfs
-* **LinkedIn:** https://www.linkedin.com/in/vaibhav-gangwar-developer/
+* **LinkedIn:** https://www.linkedin.com/in/ajayapril1991/
 
-### 📚 About This Repository
+## 📚 About This Repository
 
 This repository is part of my ongoing effort to share structured learning resources, real-world examples, and best practices for developers. Contributions, feedback, and suggestions are always welcome.
 
